@@ -1,5 +1,0 @@
-$ github-linguist grammars.yml
-grammars.yml: 884 lines (884 sloc)
-  type:      Text
-  mime type: text/x-yaml
-  language:  YAML
