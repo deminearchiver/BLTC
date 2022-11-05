@@ -1,4 +1,4 @@
-# Macromedia-Flash-8-bulk-layer-type-converter
+# Macromedia Flash 8 Bulk Layertype Converter
 A bulk layer type changer script for Maromedia Flash 8
 # Installation for Windows
 Put downloaded .JSFL file into *"C:\Users\YOUR USERNAME\AppData\Local\Macromedia\Flash 8\YOUR FLASH LANGUAGE\Configuration\Commands"*.
@@ -11,4 +11,4 @@ It will now appear in your commands tab in Macromedia Flash 8
 # Debug Mode
 To enable Debug Mode you need to open script in your Flash and change *debugMode* variable to *true*
 # Special thanks to:
-Adobe, JavaScript, Shuriken255, akiani, Voidstrike17, Trasit
+Shuriken255, akiani, Voidstrike17, Trasit
